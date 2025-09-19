@@ -70,4 +70,5 @@ while True:
     if tentativas == 0:
       print ('Que pena! Não foi dessa vez. A palavra era ' + palavra0)
   else:
+
     break      
